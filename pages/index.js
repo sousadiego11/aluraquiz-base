@@ -31,11 +31,11 @@ export default function Home() {
       
       <Widget>
         <Widget.Header>
-          <h1>Universo DC</h1>
+          <h1>Teste seus conhecimentos em JavaScript!</h1>
         </Widget.Header>
           
         <Widget.Content>
-          <p>Quão fanboy é você?</p>
+          <p>Quão bem você anda estudando?</p>
         </Widget.Content>
       </Widget>
       
