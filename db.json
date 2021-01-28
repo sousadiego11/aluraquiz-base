@@ -4,25 +4,27 @@
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
+        "image": "https://i.gifer.com/AZd.gif",
+        "title": "Qual dessas classes adquire seus poderes por meio de um pacto com um patrono?",
+        "description": "Essa é pra aquecer!",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Paladino",
+          "Bruxo",
+          "Mago",
+          "Monge"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
+        "image": "https://i.pinimg.com/originals/9f/7d/fa/9f7dfa25f9158249c1ba88e091aefa06.gif",
+        "title": "Armas com a propriedade Acuidade permitem realizar qual tipo de ação?",
         "description": "Faz tempo em haha",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Permite usar destreza no lugar de força",
+           "Faz acertar o alvo com mais facilidade",
+           "Permite arremessar a arma",
+           "Acerta o alvo automaticamente"
         ]
       }
     ],
@@ -32,7 +34,7 @@
     "theme": {
       "colors": {
         "primary": "#f44336",
-        "secondary": "#00e5ff",
+        "secondary": "#ffc400",
         "mainBg": "#18191A",
         "contrastText": "#FFFFFF",
         "wrong": "#FF5722",
