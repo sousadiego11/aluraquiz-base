@@ -4,7 +4,7 @@
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
       {
-        "image": "https://i.gifer.com/AZd.gif",
+        "image": "https://64.media.tumblr.com/bfa602d833a33c3bf2b3993ddc4c9dbb/tumblr_o8q3xiBbDi1ufngqwo3_540.gifv",
         "title": "Qual dessas classes adquire seus poderes por meio de um pacto com um patrono?",
         "description": "Essa é pra aquecer!",
         "answer": 1,
@@ -16,9 +16,45 @@
         ]
       },
       {
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/514882652660417423/21E26E38040C0E325063163393276756DC2458B5/",
+        "title": "O que significa a condiçâo surpreso em combate?",
+        "description": "Essa eu quero ver!",
+        "answer": 3,
+        "alternatives": [
+          "Permite você atacar com mais precisão",
+          "Não influencia no combate",
+          "Personagem tem que sair correndo",
+          "Impossibilita ter ação na primeira rodada"
+        ]
+      },
+      {
+        "image": "https://media2.giphy.com/media/BWo6CbPqyenpJFydFU/giphy.gif",
+        "title": "Na tentativa de roubar, o personagem deverá realizar um teste de ___",
+        "description": "Ladinos essa é pra vocês!",
+        "answer": 0,
+        "alternatives": [
+          "Prestidigitação",
+          "Acrobacia",
+          "Persuasão",
+          "Furtividade"
+        ]
+      },
+      {
+        "image": "https://media3.giphy.com/media/3Xw6TZ8xgjqojOwlvr/giphy.gif",
+        "title": "Qual o modificador de atributo que auxilia na classe de armadura?",
+        "description": "Tá lembrado do livro do jogador?",
+        "answer": 1,
+        "alternatives": [
+          "Inteligência",
+          "Destreza",
+          "Força",
+          "Sabedoria"
+        ]
+      },
+      {
         "image": "https://i.pinimg.com/originals/9f/7d/fa/9f7dfa25f9158249c1ba88e091aefa06.gif",
         "title": "Armas com a propriedade Acuidade permitem realizar qual tipo de ação?",
-        "description": "Faz tempo em haha",
+        "description": "É tua hora esquecidinho",
         "answer": 0,
         "alternatives": [
            "Permite usar destreza no lugar de força",
