@@ -47,7 +47,18 @@ export default function Home() {
       <Widget>
         <Widget.Content>
           <h1>Quizes da galera</h1>
-          <p>Aqui irão os quizes</p>
+          <ul>
+          {db.external.map(linkExterno => {
+            return(
+              <li>
+              <Widget.Topic href={linkExterno}>
+                {linkExterno}
+              </Widget.Topic>
+              </li>
+            )
+          }  
+          )}
+          </ul>
         </Widget.Content>
       </Widget>
       <Footer />

@@ -65,7 +65,8 @@
       }
     ],
     "external": [
-      ""
+      "https://alura-quiz-base.abnner13.vercel.app/",
+      "https://alura-quiz-base.abnner13.vercel.app/"
     ],
     "theme": {
       "colors": {
